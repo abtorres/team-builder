@@ -1,0 +1,22 @@
+.members {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.memberCard {
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    width: 30%;
+    margin: 20px;
+    justify-content: center;
+}
+
+.memberCard h1 {
+    font-size: 1.5rem;
+    padding: 20px
+}
+
+span {
+    font-weight: bold;
+}

@@ -1,0 +1,31 @@
+.MemberForm {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.MemberForm h2 {
+    font-size: 1.5rem;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    align-self: center;
+}
+
+.form form {
+    display: flex;
+    flex-direction: column;
+    margin: 10px
+}
+
+.form label {
+    margin: 10px;
+}
+
+.form button {
+    margin-top: 20px;
+}
